@@ -39,6 +39,11 @@ button {
     font-weight: 600;
     line-height: 125%;
 
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.8;
 }
 
 #form-habits {

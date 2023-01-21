@@ -13,7 +13,7 @@ Controle de hábitos.
 <br>
 
 <p align="center">
-  <img alt="" src="./assets/layout.jpg" width="100%">
+  <img alt="" src="./assets/layout.jpg" width="30%">
 </p>
 
 ## 🚀 Tecnologias
