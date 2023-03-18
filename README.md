@@ -1,4 +1,4 @@
-<h1 align="center"> Habits E Goals </h1>
+<h1 align="center"> Habits & Goals </h1>
 
 <p align="center">
 Controle de hábitos e metas.
