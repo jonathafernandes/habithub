@@ -30,7 +30,7 @@ Aplicativo de controle de hábitos.
 
 ## 🖱️ Visite
 
-https://jonathafernandes.github.io/desafios-html/index.html
+https://jonathafernandes.github.io/habits
 
 ---
 👨‍💻 Desenvolvedor
