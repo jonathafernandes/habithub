@@ -1,7 +1,7 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> Habits E Goals </h1>
 
 <p align="center">
-Controle de hábitos.
+Controle de hábitos e metas.
 <br>
 </p>
 
@@ -26,11 +26,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Aplicativo de controle de hábitos.
+Aplicativo de controle de hábitos e metas.
 
 ## 🖱️ Visite
 
-https://jonathafernandes.github.io/habits
+https://jonathafernandes.github.io/habits-e-goals/
 
 ---
 👨‍💻 Desenvolvedor
