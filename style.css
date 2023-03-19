@@ -21,6 +21,7 @@ header {
 
     position: fixed;
     width: 100%;
+
     background-color: #09090A;
 }
 
@@ -116,8 +117,21 @@ input:checked {
     border: 2px solid #CA8A04;
 }
 
-@media (max-width: 570px) {
+@media (max-width: 610px) {
+    header {
+        display: flex;
+        flex-direction: column;
+        gap: 21px;
+        padding: 11px;
+    }
+
     button div {
         display: none;
+    }
+}
+
+@media (max-width:470px) {
+    header {
+        align-items: start;
     }
 }
