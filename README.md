@@ -13,7 +13,9 @@ Controle de hábitos e metas.
 <br>
 
 <p align="center">
-  <img alt="" src="./assets/layout.jpg" width="30%">
+  <img alt="" src="./assets/layout.png" width="60%">
+  <br><br>
+  <img alt="" src="./assets/layout-1.png" width="60%">
 </p>
 
 ## 🚀 Tecnologias
