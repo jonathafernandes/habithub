@@ -13,4 +13,4 @@ Controle de hábitos.
 - Git e Github
 ---
 **🖱️ Visite:**
-- https://jonathafernandes.github.io/habits-e-goals/
+- https://jonathafernandes.github.io/habits
