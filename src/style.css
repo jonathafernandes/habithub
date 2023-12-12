@@ -7,7 +7,7 @@
 body {
     background-color: #09090A;
     color: white;
-    font-family: 'Inter';
+    font-family: 'JetBrains Mono', monospace;
 
     height: 100vh;
 }
@@ -15,35 +15,22 @@ body {
 header {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
 
     padding: 48px;
-
     position: fixed;
     width: 100%;
 
-    background-color: #09090A;
+    font-size: 2rem;
 }
 
-button {
-    padding: 16px 24px;
-    border-radius: 8px;
-    border: 1px solid #EAB308;
-
-    background-color: transparent;
-    color: white;
-
-    display: flex;
-    align-items: center;
-    gap: 12px;
-
-    font-weight: 600;
-    line-height: 125%;
-
+.button {
     cursor: pointer;
+
+    font-size: 2.3rem;
 }
 
-button:hover {
+.button:hover {
     opacity: 0.8;
 }
 
@@ -54,24 +41,8 @@ button:hover {
     width: fit-content;
 }
 
-.habits {
-    margin-top: 60px;
-    display: flex;
-    flex-direction: column;
-    gap: 24px;
-}
-
-.habits img {
-    width: 32px;
-}
-
 .habit {
     font-size: 32px;
-
-    height: 64px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 .days {
@@ -79,7 +50,7 @@ button:hover {
     gap: 48px;
     margin-left: 32px;
 
-    font-family: 'Roboto Mono';
+    font-family: 'Manrope', sans-serif;
 }
 
 .day {
@@ -91,10 +62,8 @@ button:hover {
 .day div {
     margin-bottom: 8px;
 
-    font-size: 20px;
+    font-size: 0.85rem;
     line-height: 125%;
-
-    color: #EAB308;
 
     text-align: center;
 }
@@ -103,8 +72,8 @@ input {
     appearance: none;
     -webkit-appearance: none;
 
-    width: 64px;
-    height: 64px;
+    width: 2rem;
+    height: 2rem;
 
     border-radius: 8px;
     border: 2px solid #272724;
@@ -113,13 +82,12 @@ input {
 }
 
 input:checked {
-    background: #EAB308;
-    border: 2px solid #CA8A04;
+    background: #514796;
+    border: 2px solid #2a2163;
 }
 
 @media (max-width: 610px) {
     header {
-        display: flex;
         flex-direction: column;
         gap: 21px;
         padding: 11px;
@@ -127,11 +95,5 @@ input:checked {
 
     button div {
         display: none;
-    }
-}
-
-@media (max-width:470px) {
-    header {
-        align-items: start;
     }
 }
