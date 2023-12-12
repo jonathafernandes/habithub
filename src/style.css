@@ -96,4 +96,8 @@ input:checked {
     button div {
         display: none;
     }
+
+    #form-habits {
+        padding: 182px 0 0;
+    }
 }
