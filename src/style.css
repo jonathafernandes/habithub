@@ -6,8 +6,8 @@
 
 body {
     background-color: #09090A;
-    color: white;
-    font-family: 'JetBrains Mono', monospace;
+    color: #fff;
+    font-family: 'Manrope', sans-serif;
 
     height: 100vh;
 }
@@ -17,14 +17,22 @@ header {
     align-items: center;
     justify-content: space-around;
 
-    padding: 48px;
-    position: fixed;
+    padding: 1.125rem;
     width: 100%;
+}
 
-    font-size: 2rem;
+header .logo {
+    font-family: 'JetBrains Mono', monospace;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
 }
 
 .button {
+    color: #3064E8;
+
     cursor: pointer;
 
     font-size: 2.3rem;
@@ -34,15 +42,22 @@ header {
     opacity: 0.8;
 }
 
+.info {
+    background: #18181b;
+    border-radius: 5px;
+    color: #b9b9b9;
+    line-height: 25px;
+    text-align: center;
+
+    padding: 1rem;
+    margin: 1rem 3rem;
+}
+
 #form-habits {
     display: flex;
 
-    padding: 182px 48px 48px;
+    padding: 2rem 3rem;
     width: fit-content;
-}
-
-.habit {
-    font-size: 32px;
 }
 
 .days {
@@ -82,8 +97,8 @@ input {
 }
 
 input:checked {
-    background: #514796;
-    border: 2px solid #2a2163;
+    background: #3064E8;
+    border: 2px solid #1b377e;
 }
 
 @media (max-width: 610px) {
@@ -98,6 +113,6 @@ input:checked {
     }
 
     #form-habits {
-        padding: 182px 0 0;
+        padding: 1rem 0;
     }
 }
