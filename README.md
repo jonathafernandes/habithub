@@ -1,4 +1,4 @@
-<h1 align="center">Hábitos</h1>
+<h1 align="center">HabitHub</h1>
 
 <p align="center">
 Controle de hábitos.
@@ -13,4 +13,4 @@ Controle de hábitos.
 - Git e Github
 ---
 **🖱️ Visite:**
-- https://jonathafernandes.github.io/habits
+- https://jonathafernandes.github.io/habithub
