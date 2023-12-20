@@ -1,9 +1,12 @@
 <h1 align="center">HabitHub</h1>
 
 <p align="center">
-Controle de hábitos.
-<br>
+    Controle de hábitos.
 </p>
+
+<img src="./src/assets/Captura de tela de 2023-12-20 18-15-16.png" alt="">
+
+<br>
 
 <br>
 
