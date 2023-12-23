@@ -1,4 +1,4 @@
-<h1 align="center">HabitHub</h1>
+<h2 align="center">HabitHub</h2>
 
 <p align="center">
     Controle de hábitos.
@@ -6,14 +6,12 @@
 
 <img src="./src/assets/Captura de tela de 2023-12-20 18-15-16.png" alt="">
 
-<br>
-
-<br>
-
-🚀 **Desenvolvido com:**
-- HTML e CSS
-- JavaScript
-- Git e Github
 ---
+<br>
+
+🚀 _Desenvolvido com_ **HTML**, **CSS** _e_ **JavaScript**.
+
+<br>
+
 **🖱️ Visite:**
 - https://jonathafernandes.github.io/habithub
